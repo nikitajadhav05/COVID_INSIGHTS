@@ -56,6 +56,19 @@ A **mini responsive website** built with **Bootstrap 5** that displays live **CO
 
 
 ---
+🙋‍♀️ Author
+Nikita Jadhav
+📧 [nikitajadhav9322@gmail.com](mailto:nikitajadhav9322@gmail.com)  
+🔗 [GitHub: nikitajadhav05](https://github.com/nikitajadhav05)
+🔗 [LinkedIn: Nikita Jadhav](https://www.linkedin.com/in/nikita-jadhav-899867316)
+
+
+
+
+
+⭐ If you found this project helpful, consider giving it a star!
+
+
 
 ## 🔹 How to Run Locally 💻
 
