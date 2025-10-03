@@ -56,7 +56,18 @@ A **mini responsive website** built with **Bootstrap 5** that displays live **CO
 
 
 ---
-🙋‍♀️ Author
+
+
+
+
+## 🔹 How to Run Locally 💻
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/nikitajadhav05/COVID_INSIGHTS.git
+
+
+   🙋‍♀️ Author
 Nikita Jadhav
 📧 [nikitajadhav9322@gmail.com](mailto:nikitajadhav9322@gmail.com)  
 🔗 [GitHub: nikitajadhav05](https://github.com/nikitajadhav05)
@@ -67,11 +78,3 @@ Nikita Jadhav
 
 
 ⭐ If you found this project helpful, consider giving it a star!
-
-
-
-## 🔹 How to Run Locally 💻
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/nikitajadhav05/COVID_INSIGHTS.git
