@@ -61,8 +61,9 @@ A **mini responsive website** built with **Bootstrap 5** that displays live **CO
    git clone https://github.com/nikitajadhav05/COVID_INSIGHTS.git
 
 
-
-   🙋‍♀️ Author
+---
+   
+🙋‍♀️ Author
 Nikita Jadhav
 📧 [nikitajadhav9322@gmail.com](mailto:nikitajadhav9322@gmail.com)  
 🔗 [GitHub: nikitajadhav05](https://github.com/nikitajadhav05)
