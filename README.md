@@ -31,27 +31,29 @@ A **mini responsive website** built with **Bootstrap 5** that displays live **CO
 ---
 
 ## 🔹 Screenshots 🖼️
-
 - **Hero Section**  
-  ![Hero Section](assets/img/HeroSection_screenshot.png)
+  ![Hero Section](Assets/img/HeroSection_screenshot.png)
 
 - **Symptoms & Prevention Section**  
-  ![Symptoms & Prevention](assets/img/SymtomsandPrevention_screenshot.png)
+  ![Symptoms & Prevention](Assets/img/SymtomsandPrevention_screenshot.png)
 
 - **Latest Updates / Stats Section**  
-  ![Latest Updates](assets/img/LatestUpdates_screenshot.png)
+  ![Latest Updates](Assets/img/LatestUpdates_screenshot.png)
 
 - **Contact Section**  
-  ![Contact Section](assets/img/ContactSection_screenshot.png)
+  ![Contact Section](Assets/img/ContactSection_screenshot.png)
 
 - **Footer Section**  
-  ![Footer Section](assets/img/FooterSection_screenshot.png)
+  ![Footer Section](Assets/img/FooterSection_screenshot.png)
 
 ---
 
+
+
 ## 🔹 Demo 🎬
 
-![Covid Insights Demo](assets/gif/Covid_Insights.gif)
+![Covid Insights Demo](Assets/gif/Covid_Insights.gif)
+
 
 ---
 
