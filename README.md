@@ -54,17 +54,12 @@ A **mini responsive website** built with **Bootstrap 5** that displays live **CO
 
 ![Covid Insights Demo](Assets/gif/Covid_Insights.gif)
 
-
----
-
-
-
-
 ## 🔹 How to Run Locally 💻
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/nikitajadhav05/COVID_INSIGHTS.git
+
 
 
    🙋‍♀️ Author
